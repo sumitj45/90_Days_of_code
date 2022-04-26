@@ -1,9 +1,5 @@
-<br>
-#Arrays
-<br/>
 
-## Day 1
->[C++ program to reverse an array](https://github.com/sumitj45/90_Days_of_code/edit/main/Array.java)
+//program to reverse an array
 
 class Array{
  static void reverseArray(int[] arr , int start , int end){
